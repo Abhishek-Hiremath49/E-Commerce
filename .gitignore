@@ -1,24 +1,24 @@
-# Python cache files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# # Python cache files
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
 
-# Virtual environments
-mini_e_venv/
-venv/
-.env/
+# # Virtual environments
+# mini_e_venv/
+# venv/
+# .env/
 
-# Environment configuration
-*.env
+# # Environment configuration
+# *.env
 
-# VSCode or editor settings (optional)
-.vscode/
-.idea/
+# # VSCode or editor settings (optional)
+# .vscode/
+# .idea/
 
-# Logs
-*.log
+# # Logs
+# *.log
 
-# Alembic files
-alembic/
-alembic.ini
+# # Alembic files
+# alembic/
+# alembic.ini
